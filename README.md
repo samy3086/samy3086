@@ -1,165 +1,250 @@
 <div align="center">
 
-# Hi, I'm Kayouche Ahmed Samy 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Kayouche+Ahmed+Samy;Software+Developer;Python+%7C+ASP.NET+Core+%7C+React;Building+Software+That+Solves+Real+Problems" />
 
-### Computer Science Student • Full-Stack Developer • Future AI Engineer
+<h3>Software Developer • Computer Science Graduate • AI Enthusiast</h3>
 
-*Building real-world applications, one commit at a time.*
+<p>
+I enjoy building scalable web applications, learning new technologies, and turning ideas into real-world software.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%26+AI+Enthusiast;React+%7C+Node.js+%7C+SQL;Building+for+the+future)](https://git.io/typing-svg)
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-```python
-samy = {
-    "name"       : "Kayouche Ahmed Samy",
-    "location"   : "Algiers, Algeria 🇩🇿",
-    "education"  : "Computer Science — Université d'Alger 1 (Benyoucef Benkhedda)",
-    "status"     : "Bachelor's Graduate → Master's (ISII) incoming",
-    "stack"      : ["React", "Node.js", "Python", "SQL Server", "ASP.NET Core"],
-    "goal"       : "International career in AI & Software Engineering",
-    "learning"   : ["Python Advanced", "Full Stack Web", "Machine Learning"],
-    "available"  : True
-}
-```
+I'm **Kayouche Ahmed Samy**, a Computer Science graduate from **University of Algiers 1**.
 
----
+I enjoy designing software, solving complex problems, and continuously improving my engineering skills through practical projects.
 
-## 🛠️ Tech Stack
+Currently I'm focused on:
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🐍 Python Development
+- ⚙️ ASP.NET Core
+- ⚛️ React
+- 🗄 SQL Server & PostgreSQL
+- 🤖 Machine Learning fundamentals
 
-### Backend & Languages
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+My long-term objective is to contribute to international software teams and build products that create real impact.
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Current Focus
 
-### 🏦 BankPro — Banking Management System
-> Full-stack web banking system built with **ASP.NET Core MVC + React.js**
-> 
-> - 4 user roles: Client, Teller, Manager, Admin
-> - JWT Authentication + BCrypt password hashing
-> - SQL Server database with full transaction management
-> - Built as Bachelor's thesis project at Université d'Alger 1
->
-> `ASP.NET Core` `React.js` `SQL Server` `JWT` `BCrypt` `MVC`
+- 🏦 Developing a Banking Management System
+- 🐍 Completing Python 100 Days of Code
+- 🌐 Improving Full Stack Development skills
+- 📚 Learning Machine Learning
+- 💼 Building a strong portfolio for international opportunities
 
 ---
 
-### 🚀 Space Tourism Website
-> Multi-page responsive frontend inspired by the Frontend Mentor space tourism challenge
->
-> - Built with pure **HTML, CSS & JavaScript** (no frameworks)
-> - Google Fonts: Bellefair, Barlow, Barlow Condensed
-> - Glassmorphism navbar with backdrop-filter blur
-> - Fully responsive across all devices
->
-> `HTML5` `CSS3` `JavaScript` `Responsive Design`
+# 🛠 Tech Stack
 
----
+## Languages
 
-### 🗺️ Route Optimization Engine
-> Multi-criteria dynamic route optimization system combining advanced algorithms
->
-> - AHP + Gini Index + Hurwicz Criterion + Dijkstra's Algorithm
-> - Implemented in Python across multiple modules
-> - Academic research project with full PDF report
->
-> `Python` `Algorithms` `Data Science` `Optimization`
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,js,c" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🎯 Current Goals (2026)
+# 🌟 Featured Projects
 
-- [ ] Complete **Angela Yu Python 100 Days** course
-- [ ] Complete **Angela Yu Full Stack Web** course
-- [ ] Build 3+ production-ready projects on GitHub
-- [ ] Launch first **Fiverr** service as Full Stack Developer
-- [ ] Enroll in **Master ISII** — Université d'Alger 1
-- [ ] Earn **Google Data Analytics Certificate**
-- [ ] Prepare for **international opportunities** (Canada 🇨🇦 / Europe 🇪🇺 / Gulf 🇦🇪)
+## 🏦 BankPro — Banking Management System
 
----
+A modern banking platform developed as my Bachelor's graduation project.
 
-## 📚 Currently Learning
+### Features
 
-```
-🐍 Python        ████████░░  Day 15/100
-🌐 Full Stack    ███░░░░░░░  CSS in progress  
-🤖 AI/ML         ██░░░░░░░░  Coming soon
-```
+- JWT Authentication
+- Role-Based Authorization
+- Customer Management
+- Account Management
+- Money Transfers
+- Deposits & Withdrawals
+- Transaction History
+- SQL Server Database
 
----
+**Tech Stack**
 
-## 🌍 Languages
+`ASP.NET Core` `React` `SQL Server` `JWT` `Entity Framework Core`
 
-- 🇩🇿 Arabic — Native
-- 🇫🇷 French — Fluent
-- 🇬🇧 English — Intermediate (improving daily)
+🔗 Repository: **Coming Soon**
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Space Tourism Website
+
+Responsive website inspired by the Frontend Mentor challenge.
+
+### Features
+
+- Responsive Design
+- Glassmorphism UI
+- Vanilla JavaScript
+- CSS Animations
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 Repository:
+YOUR_LINK
+
+---
+
+## 🗺 Route Optimization Engine
+
+Research project implementing multiple decision-making algorithms.
+
+Algorithms included:
+
+- Dijkstra
+- AHP
+- Gini Index
+- Hurwicz Criterion
+
+Built completely in Python.
+
+🔗 Repository:
+YOUR_LINK
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Learning Journey
+
+| Technology | Status |
+|------------|--------|
+| Python | 🟢 Advanced Learning |
+| ASP.NET Core | 🟢 Building Projects |
+| React | 🟢 Building Projects |
+| SQL Server | 🟢 Comfortable |
+| Machine Learning | 🟡 Learning |
+| Data Structures & Algorithms | 🟢 Continuous Practice |
+
+---
+
+# 🎯 Goals for 2026
+
+- Build 10 high-quality projects
+- Master ASP.NET Core & React
+- Learn Machine Learning
+- Contribute to Open Source
+- Earn Google Data Analytics Certificate
+- Launch Fiverr Freelance Services
+- Secure an international software engineering opportunity
+
+---
+
+# 🌍 Languages
+
+🇩🇿 Arabic — Native
+
+🇫🇷 French — Fluent
+
+🇬🇧 English — B2 (Professional Working Proficiency)
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.fiverr.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-*"The best way to predict the future is to build it."*
+## 💡 Philosophy
 
-⭐ If you find my projects useful, consider giving them a star!
+*"Great software isn't just about writing code—it's about solving problems, continuously learning, and creating value for others."*
+
+⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me.
 
 </div>
