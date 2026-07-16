@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ahmed Samy
+# Hi there, I'm Kayouche Ahmed Samy
 
 ### Software Engineering Student • Software Developer • Future Software Engineer
 
@@ -6,15 +6,15 @@ I'm a Computer Science graduate currently pursuing a Master's degree in Informat
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Master's Student (M1 ISII) — University of Algiers 1
-- 💻 Software Developer
-- 🐍 Backend Developer using Python & Node.js
-- ⚛️ Frontend Developer with React & TypeScript
-- 🗄️ Experienced with PostgreSQL, MySQL & SQL Server
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌍 Aspiring Software Engineer seeking international opportunities
+-  Master's Student (M1 ISII) — University of Algiers 1
+-  Software Developer
+-  Backend Developer using Python & Node.js
+-  Frontend Developer with React & TypeScript
+-  Experienced with PostgreSQL, MySQL & SQL Server
+-  Interested in Artificial Intelligence & Machine Learning
+-  Aspiring Software Engineer seeking international opportunities
 - 📍 Based in Algeria
 
 ---
@@ -54,23 +54,6 @@ I'm a Computer Science graduate currently pursuing a Master's degree in Informat
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 🎯 Current Goals
 
