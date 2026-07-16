@@ -1,20 +1,20 @@
 # Hi there 👋 I'm Ahmed Samy
 
-### Frontend Developer • Computer Science Student • Future Full-Stack Engineer
+### Software Engineering Student • Software Developer • Future Software Engineer
 
-I'm a Computer Science graduate and software developer passionate about designing and building software that solves real-world problems. I enjoy working with Python and React, exploring artificial intelligence, and continuously expanding my knowledge through practical projects and continuous learning.
+I'm a Computer Science graduate currently pursuing a Master's degree in Information Systems and Intelligent Computing (M1 ISII). I'm passionate about designing and building software that solves real-world problems. I enjoy working with Python, TypeScript, React, and Node.js while exploring artificial intelligence and continuously improving my software engineering skills through practical projects.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Graduate — University of Algiers 1
-- 💻 Full-Stack Developer
-- 🐍 Backend Developer using Python & node.js
-- ⚛️ Frontend Developer with React
-- 🗄️ Experienced with SQL Server & PostgreSQL
+- 🎓 Master's Student (M1 ISII) — University of Algiers 1
+- 💻 Software Developer
+- 🐍 Backend Developer using Python & Node.js
+- ⚛️ Frontend Developer with React & TypeScript
+- 🗄️ Experienced with PostgreSQL, MySQL & SQL Server
 - 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌍 Seeking international Software Engineering opportunities
+- 🌍 Aspiring Software Engineer seeking international opportunities
 - 📍 Based in Algeria
 
 ---
@@ -24,7 +24,7 @@ I'm a Computer Science graduate and software developer passionate about designin
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,js,c" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,c,cs" />
 </p>
 
 ### Frontend
@@ -36,7 +36,7 @@ I'm a Computer Science graduate and software developer passionate about designin
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### Databases
@@ -53,8 +53,6 @@ I'm a Computer Science graduate and software developer passionate about designin
 </p>
 
 ---
-
-
 
 ## 📈 GitHub Statistics
 
@@ -78,7 +76,8 @@ I'm a Computer Science graduate and software developer passionate about designin
 
 - 🚀 Build production-ready software
 - 🐍 Master Python
-- ⚛️ Become an advanced fullstack Developer
+- ⚛️ Master React & TypeScript
+- 🟢 Learn Node.js and backend architecture
 - 🤖 Learn Machine Learning & AI
 - 📚 Practice Data Structures & Algorithms
 - 🌍 Land a Software Engineering role abroad
@@ -87,9 +86,6 @@ I'm a Computer Science graduate and software developer passionate about designin
 
 ## 📫 Connect With Me
 
-📧 **Email:** kayouchesamy8@gmail.com
+📧 **Email:** [kayouchesamy8@gmail.com](mailto:kayouchesamy8@gmail.com)
 
-💼 **LinkedIn:** 
-
-
-> *"The best way to predict the future is to build it."*
+💼 **LinkedIn:** [linkedin.com/in/samy-kayouche-4b3424349](https://www.linkedin.com/in/samy-kayouche-4b3424349)
