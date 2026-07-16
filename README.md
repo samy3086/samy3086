@@ -1,250 +1,226 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Kayouche+Ahmed+Samy;Software+Developer;Python+%7C+ASP.NET+Core+%7C+React;Building+Software+That+Solves+Real+Problems" />
+# Hi, I'm Ahmed Samy 👋
 
-<h3>Software Developer • Computer Science Graduate • AI Enthusiast</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Developer;Python+%7C+ASP.NET+Core+%7C+React;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
+
+### Software Developer • Computer Science Graduate • Future AI Engineer
 
 <p>
-I enjoy building scalable web applications, learning new technologies, and turning ideas into real-world software.
+I build modern web applications using Python, ASP.NET Core and React while continuously improving my software engineering skills.
 </p>
 
 <p>
+
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
 </a>
+
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm **Kayouche Ahmed Samy**, a Computer Science graduate from **University of Algiers 1**.
-
-I enjoy designing software, solving complex problems, and continuously improving my engineering skills through practical projects.
-
-Currently I'm focused on:
-
-- 🐍 Python Development
-- ⚙️ ASP.NET Core
-- ⚛️ React
-- 🗄 SQL Server & PostgreSQL
-- 🤖 Machine Learning fundamentals
-
-My long-term objective is to contribute to international software teams and build products that create real impact.
+- 🎓 Computer Science Graduate — University of Algiers 1
+- 💻 Passionate about Full Stack Development
+- ⚙️ Backend: ASP.NET Core & Python
+- ⚛️ Frontend: React
+- 🗄 Databases: SQL Server & PostgreSQL
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌍 Looking for international Software Engineering opportunities
 
 ---
 
-# 🚀 Current Focus
+# Tech Stack
 
-- 🏦 Developing a Banking Management System
-- 🐍 Completing Python 100 Days of Code
-- 🌐 Improving Full Stack Development skills
-- 📚 Learning Machine Learning
-- 💼 Building a strong portfolio for international opportunities
+<div align="center">
 
----
+### Languages
 
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
 <img src="https://skillicons.dev/icons?i=python,cs,js,c" />
-</p>
 
-## Frontend
+### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
 
-## Backend
+### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
-</p>
 
-## Database
+### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-## Tools
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+
+</div>
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
-## 🏦 BankPro — Banking Management System
+## 🏦 Banking Management System
 
-A modern banking platform developed as my Bachelor's graduation project.
+A complete banking platform developed as my Bachelor's graduation project.
 
-### Features
+### Highlights
 
 - JWT Authentication
 - Role-Based Authorization
-- Customer Management
 - Account Management
+- Customer Management
 - Money Transfers
 - Deposits & Withdrawals
 - Transaction History
+- REST API
 - SQL Server Database
 
-**Tech Stack**
+**Tech**
 
-`ASP.NET Core` `React` `SQL Server` `JWT` `Entity Framework Core`
+`ASP.NET Core`
+`React`
+`Entity Framework`
+`SQL Server`
+`JWT`
 
-🔗 Repository: **Coming Soon**
+🔗 Repository → Coming Soon
 
 ---
 
 ## 🚀 Space Tourism Website
 
-Responsive website inspired by the Frontend Mentor challenge.
+Responsive website built from the Frontend Mentor challenge.
 
-### Features
+**Features**
 
-- Responsive Design
-- Glassmorphism UI
-- Vanilla JavaScript
+- Responsive UI
+- JavaScript Components
 - CSS Animations
+- Modern Layout
 
 **Tech**
 
-`HTML` `CSS` `JavaScript`
+`HTML`
+`CSS`
+`JavaScript`
 
-🔗 Repository:
-YOUR_LINK
+🔗 Repository
 
 ---
 
 ## 🗺 Route Optimization Engine
 
-Research project implementing multiple decision-making algorithms.
+Research project implementing multiple routing and decision-making algorithms.
 
-Algorithms included:
+Algorithms
 
 - Dijkstra
 - AHP
+- Hurwicz
 - Gini Index
-- Hurwicz Criterion
 
-Built completely in Python.
+**Tech**
 
-🔗 Repository:
-YOUR_LINK
+`Python`
+
+🔗 Repository
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
+<br>
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br>
 
-<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# GitHub Activity
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📚 Learning Journey
+# Current Focus
 
-| Technology | Status |
-|------------|--------|
-| Python | 🟢 Advanced Learning |
-| ASP.NET Core | 🟢 Building Projects |
-| React | 🟢 Building Projects |
-| SQL Server | 🟢 Comfortable |
-| Machine Learning | 🟡 Learning |
-| Data Structures & Algorithms | 🟢 Continuous Practice |
+- 🔥 Building production-ready full-stack applications
+- 🐍 Advanced Python Development
+- ⚙️ ASP.NET Core Architecture
+- ⚛️ Modern React Development
+- 📚 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
 
 ---
 
-# 🎯 Goals for 2026
+# Certifications (Coming Soon)
 
-- Build 10 high-quality projects
-- Master ASP.NET Core & React
-- Learn Machine Learning
-- Contribute to Open Source
-- Earn Google Data Analytics Certificate
-- Launch Fiverr Freelance Services
-- Secure an international software engineering opportunity
+- Google Data Analytics
+- Microsoft Azure Fundamentals
+- Python Professional Certificate
 
 ---
 
-# 🌍 Languages
+# Languages
 
-🇩🇿 Arabic — Native
-
-🇫🇷 French — Fluent
-
-🇬🇧 English — B2 (Professional Working Proficiency)
+| Language | Level |
+|----------|-------|
+| 🇬🇧 English | B2 |
+| 🇫🇷 French | Fluent |
+| 🇩🇿 Arabic | Native |
 
 ---
 
-# 🤝 Let's Connect
+# Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.fiverr.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## 💡 Philosophy
-
-*"Great software isn't just about writing code—it's about solving problems, continuously learning, and creating value for others."*
+### "Code with purpose. Learn continuously. Build software that matters."
 
 ⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and connect with me.
 
 </div>
