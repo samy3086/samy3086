@@ -1,10 +1,8 @@
 # Hi there 👋 I'm Ahmed Samy
 
-### Software Developer • Computer Science Graduate • Future AI Engineer
+### Frontend Developer • Computer Science Student • Future Full-Stack Engineer
 
-Passionate about building scalable web applications, solving real-world problems, and continuously learning new technologies.
-
-Currently focused on **Python**, **ASP.NET Core**, **React**, and **Machine Learning**, while building projects that strengthen my software engineering skills.
+I'm a Computer Science graduate and software developer passionate about designing and building software that solves real-world problems. I enjoy working with Python and React, exploring artificial intelligence, and continuously expanding my knowledge through practical projects and continuous learning.
 
 ---
 
@@ -12,7 +10,7 @@ Currently focused on **Python**, **ASP.NET Core**, **React**, and **Machine Lear
 
 - 🎓 Computer Science Graduate — University of Algiers 1
 - 💻 Full-Stack Developer
-- 🐍 Backend Developer using Python & ASP.NET Core
+- 🐍 Backend Developer using Python & node.js
 - ⚛️ Frontend Developer with React
 - 🗄️ Experienced with SQL Server & PostgreSQL
 - 🤖 Interested in Artificial Intelligence & Machine Learning
@@ -56,61 +54,7 @@ Currently focused on **Python**, **ASP.NET Core**, **React**, and **Machine Lear
 
 ---
 
-## 🌟 Featured Projects
 
-### 🏦 Banking Management System
-
-A full-stack banking platform developed as my Bachelor's graduation project.
-
-**Highlights**
-
-- JWT Authentication
-- Role-Based Authorization
-- Customer & Account Management
-- Money Transfers
-- Deposits & Withdrawals
-- Transaction History
-- REST API
-
-**Tech**
-
-`ASP.NET Core` • `React` • `SQL Server` • `Entity Framework Core`
-
-🔗 Repository → Coming Soon
-
----
-
-### 🚀 Space Tourism Website
-
-A modern responsive website inspired by the Frontend Mentor challenge.
-
-- Responsive Design
-- Interactive UI
-- CSS Animations
-- Vanilla JavaScript
-
-**Tech**
-
-`HTML` • `CSS` • `JavaScript`
-
-🔗 Repository
-
----
-
-### 🗺 Route Optimization Engine
-
-A Python project implementing multiple decision-making and routing algorithms.
-
-Algorithms:
-
-- Dijkstra
-- AHP
-- Hurwicz
-- Gini Index
-
-🔗 Repository
-
----
 
 ## 📈 GitHub Statistics
 
@@ -134,8 +78,7 @@ Algorithms:
 
 - 🚀 Build production-ready software
 - 🐍 Master Python
-- ⚙️ Master ASP.NET Core
-- ⚛️ Become an advanced React Developer
+- ⚛️ Become an advanced fullstack Developer
 - 🤖 Learn Machine Learning & AI
 - 📚 Practice Data Structures & Algorithms
 - 🌍 Land a Software Engineering role abroad
@@ -144,16 +87,9 @@ Algorithms:
 
 ## 📫 Connect With Me
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** kayouchesamy8@gmail.com
 
-💼 **LinkedIn:** YOUR_LINKEDIN
+💼 **LinkedIn:** 
 
-🐙 **GitHub:** https://github.com/YOUR_USERNAME
-
-🌐 **Portfolio:** Coming Soon
-
-💼 **Fiverr:** YOUR_FIVERR
-
----
 
 > *"The best way to predict the future is to build it."*
