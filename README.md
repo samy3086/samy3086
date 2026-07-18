@@ -1,6 +1,6 @@
 # Hi there, I'm Kayouche Ahmed Samy
 
-### Software Engineering Student • Software Developer • Future Software Engineer
+### Software Engineering Student • Full-Stack Developer • Future Software Engineer
 
 I'm a Computer Science graduate currently pursuing a Master's degree in Information Systems and Intelligent Computing (M1 ISII). I'm passionate about designing and building software that solves real-world problems. I enjoy working with Python, TypeScript, React, and Node.js while exploring artificial intelligence and continuously improving my software engineering skills through practical projects.
 
@@ -57,18 +57,27 @@ I'm a Computer Science graduate currently pursuing a Master's degree in Informat
 
 ## 🎯 Current Goals
 
-- 🚀 Build production-ready software
-- 🐍 Master Python
-- ⚛️ Master React & TypeScript
-- 🟢 Learn Node.js and backend architecture
-- 🤖 Learn Machine Learning & AI
-- 📚 Practice Data Structures & Algorithms
-- 🌍 Land a Software Engineering role abroad
+- Build scalable and production-ready software
+- Become a professional Full-Stack Software Engineer
+- Design robust backend systems with Python
+- Build modern, responsive web applications
+- Explore Artificial Intelligence and Machine Learning
+- Improve problem-solving and system design skills
+- Secure an international Software Engineering position
 
 ---
 
 ## 📫 Connect With Me
+<p align="left">
+  <a href="mailto:kayouchesamy8@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+  </a>
 
-📧 **Email:** [kayouchesamy8@gmail.com](mailto:kayouchesamy8@gmail.com)
+  <a href="https://www.linkedin.com/in/samy-kayouche-4b3424349/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
 
-💼 **LinkedIn:** [linkedin.com/in/samy-kayouche-4b3424349](https://www.linkedin.com/in/samy-kayouche-4b3424349)
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+</p>
