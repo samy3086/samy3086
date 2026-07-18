@@ -1,6 +1,6 @@
 # Hi there, I'm Kayouche Ahmed Samy
 
-### Software Engineering Student • Full-Stack Developer • Future Software Engineer
+### Computer Science Student • Full-Stack Developer • Future Software Engineer
 
 I'm a Computer Science graduate currently pursuing a Master's degree in Information Systems and Intelligent Computing (M1 ISII). I'm passionate about designing and building software that solves real-world problems. I enjoy working with Python, TypeScript, React, and Node.js while exploring artificial intelligence and continuously improving my software engineering skills through practical projects.
 
