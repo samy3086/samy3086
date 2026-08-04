@@ -41,15 +41,14 @@ I'm a Computer Science graduate currently pursuing a Master's degree in Informat
 
 ### Databases
 
+
+
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
