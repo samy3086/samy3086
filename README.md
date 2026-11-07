@@ -67,11 +67,11 @@ I'm a Computer Science graduate currently pursuing a Master's degree in Informat
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/samy-kayouche-4b3424349/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-samy-kayouche-4b3424349/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
 
-  <a href="https://github.com/YourUsername" target="_blank">
+  <a href="https://github.com/samy3086" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
 </p>
